@@ -18,6 +18,8 @@ website can be accessed at:
 
 coded and designed by Dana Castagna
 
+with help from Xpert Learning Assistant
+
 © 2024 edX Boot Camps LLC.
 
 ## License
