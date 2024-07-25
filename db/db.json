@@ -1,6 +1,12 @@
 [
-    {
-        "title": "Test Title",
-        "text": "Test text"
-    }
+  {
+    "id": "43be2451-a479-45c8-9ca1-21c81cdf4081",
+    "title": "Don't Forget",
+    "text": "Don't give up"
+  },
+  {
+    "id": "6743e533-483e-475f-8f1e-4c5765446931",
+    "title": "Shopping List",
+    "text": "eggs milk bread"
+  }
 ]

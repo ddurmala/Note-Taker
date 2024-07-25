@@ -19,7 +19,7 @@ const api_routes = require('./routes/api_routes');
 
 app.use(express.static('./public'));
 
-app.use(express.json({ extended: false }));
+app.use(express.json());
 
 // Load Routes: 
 
