@@ -15,23 +15,6 @@ async function saveNotes(updatedNotesArray) {
 
 }
 
-// async function deleteNote(noteId) {
-
-//     const filteredNotes = notes.filter(note => note.id !== noteId);
-
-//     if (noteIndex !== -1) {
-//         // Remove the note from the notes array
-//         notes.splice(noteIndex, 1);
-
-//         // Save the updated notes array
-//         await saveNotes(notes);
-
-//         responseObj.json({ message: 'Note deleted successfully' });
-
-//         console.log('note with id ${noteId} deleted');
-//     }
-// }
-
 module.exports = {
     getNotes: getNotes,
     saveNotes: saveNotes,
